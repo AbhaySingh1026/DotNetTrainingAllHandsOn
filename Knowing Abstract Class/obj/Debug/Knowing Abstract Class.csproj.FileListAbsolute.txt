@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\bin\Debug\Knowing Abstract Class.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\bin\Debug\Knowing Abstract Class.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\bin\Debug\Knowing Abstract Class.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\obj\Debug\Knowing Abstract Class.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\obj\Debug\Knowing Abstract Class.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\obj\Debug\Knowing Abstract Class.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\obj\Debug\Knowing Abstract Class.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\Knowing Abstract Class\obj\Debug\Knowing Abstract Class.pdb
