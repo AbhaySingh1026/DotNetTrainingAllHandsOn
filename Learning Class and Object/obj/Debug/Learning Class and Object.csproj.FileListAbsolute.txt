@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\bin\Debug\Learning Class and Object.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\bin\Debug\Learning Class and Object.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\bin\Debug\Learning Class and Object.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\obj\Debug\Learning Class and Object.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\obj\Debug\Learning Class and Object.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\obj\Debug\Learning Class and Object.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\obj\Debug\Learning Class and Object.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\Learning Class and Object\obj\Debug\Learning Class and Object.pdb
