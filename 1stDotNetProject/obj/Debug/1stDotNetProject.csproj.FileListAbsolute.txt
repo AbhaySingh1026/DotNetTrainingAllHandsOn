@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\bin\Debug\1stDotNetProject.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\bin\Debug\1stDotNetProject.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\bin\Debug\1stDotNetProject.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\obj\Debug\1stDotNetProject.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\obj\Debug\1stDotNetProject.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\obj\Debug\1stDotNetProject.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\obj\Debug\1stDotNetProject.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\1stDotNetProject\obj\Debug\1stDotNetProject.pdb
