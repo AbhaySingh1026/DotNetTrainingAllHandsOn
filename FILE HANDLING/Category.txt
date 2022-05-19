@@ -1,0 +1,3 @@
+Category Id - 1, Category Type - television
+Category Id - 2, Category Type - tablet
+Category Id - 2, Category Type - sofa

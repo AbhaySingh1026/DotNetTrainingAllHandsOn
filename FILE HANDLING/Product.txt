@@ -1,0 +1,2 @@
+Product Id - 1, Category Type - ac,	Product Name - voltas,	Quantity - 1,	Price - 10000
+Product Id - 2, Category Type - ac,	Product Name - lg,	Quantity - 1,	Price - 150000
