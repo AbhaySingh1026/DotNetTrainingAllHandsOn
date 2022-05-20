@@ -1,2 +1,2 @@
 # C-and-DotNet-Training
-This repository will be containing all files which I have made during KelltonTech DotNet training.
+This repository contains all Hands On files which I have made during KelltonTech DotNet training.
