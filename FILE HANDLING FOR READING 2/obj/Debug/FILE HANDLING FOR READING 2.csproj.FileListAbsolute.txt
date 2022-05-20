@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\bin\Debug\FILE HANDLING FOR READING 2.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\bin\Debug\FILE HANDLING FOR READING 2.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\bin\Debug\FILE HANDLING FOR READING 2.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\obj\Debug\FILE HANDLING FOR READING 2.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\obj\Debug\FILE HANDLING FOR READING 2.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\obj\Debug\FILE HANDLING FOR READING 2.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\obj\Debug\FILE HANDLING FOR READING 2.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING FOR READING 2\obj\Debug\FILE HANDLING FOR READING 2.pdb
