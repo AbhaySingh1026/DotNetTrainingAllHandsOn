@@ -1,0 +1,2 @@
+Sales Id - 1, Product Id - 2131243,	Sales Date - 10/05/2022, Price - 1500
+Sales Id - 2, Product Id - 654,	Sales Date - 11/05/2022, Price - 5465

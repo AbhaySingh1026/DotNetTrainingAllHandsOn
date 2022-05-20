@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\bin\Debug\FILE HANDLING.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\bin\Debug\FILE HANDLING.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\bin\Debug\FILE HANDLING.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\obj\Debug\FILE HANDLING.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\obj\Debug\FILE HANDLING.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\obj\Debug\FILE HANDLING.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\obj\Debug\FILE HANDLING.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\FILE HANDLING\obj\Debug\FILE HANDLING.pdb
