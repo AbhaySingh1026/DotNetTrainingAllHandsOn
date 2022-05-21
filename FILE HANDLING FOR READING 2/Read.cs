@@ -13,7 +13,6 @@ namespace FILE_HANDLING_FOR_READING_2
         {
             string[] arr1 = new string[100];
             string[] arr2 = new string[100];
-            string[] arr3 = new string[100];
             FileStream fileStreamobj = new FileStream("E:\\KelltonTech\\.NET training kellton\\Real Training Started\\FILE HANDLING FOR READING 2\\ReadFrom.txt", FileMode.Open, FileAccess.Read);
             StreamReader streamReaderobj = new StreamReader(fileStreamobj);
             Console.WriteLine("Id\tSource\tDestination\tDate\tTime\tStatus\tNetwork");
