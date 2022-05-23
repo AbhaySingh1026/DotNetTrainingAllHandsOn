@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\bin\Debug\Understanding More about abstraction.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\bin\Debug\Understanding More about abstraction.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\bin\Debug\Understanding More about abstraction.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\obj\Debug\Understanding More about abstraction.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\obj\Debug\Understanding More about abstraction.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\obj\Debug\Understanding More about abstraction.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\obj\Debug\Understanding More about abstraction.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\Understanding More about abstraction\obj\Debug\Understanding More about abstraction.pdb

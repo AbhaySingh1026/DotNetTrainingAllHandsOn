@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\bin\Debug\constructor.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\bin\Debug\constructor.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\bin\Debug\constructor.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\obj\Debug\constructor.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\obj\Debug\constructor.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\constructor\obj\Debug\constructor.pdb
