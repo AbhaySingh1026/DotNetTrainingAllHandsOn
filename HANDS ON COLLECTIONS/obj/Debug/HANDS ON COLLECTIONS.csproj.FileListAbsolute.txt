@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\obj\Debug\HANDS ON COLLECTIONS.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\obj\Debug\HANDS ON COLLECTIONS.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\obj\Debug\HANDS ON COLLECTIONS.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\bin\Debug\HANDS ON COLLECTIONS.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\bin\Debug\HANDS ON COLLECTIONS.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\bin\Debug\HANDS ON COLLECTIONS.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\obj\Debug\HANDS ON COLLECTIONS.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\HANDS ON COLLECTIONS\obj\Debug\HANDS ON COLLECTIONS.pdb
