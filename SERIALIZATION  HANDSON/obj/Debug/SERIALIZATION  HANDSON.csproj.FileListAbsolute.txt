@@ -1,0 +1,11 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\bin\Debug\SERIALIZATION  HANDSON.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\bin\Debug\SERIALIZATION  HANDSON.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\bin\Debug\SERIALIZATION  HANDSON.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\obj\Debug\SERIALIZATION  HANDSON.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\obj\Debug\SERIALIZATION  HANDSON.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\obj\Debug\SERIALIZATION  HANDSON.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\obj\Debug\SERIALIZATION  HANDSON.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\obj\Debug\SERIALIZATION  HANDSON.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\bin\Debug\Newtonsoft.Json.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\bin\Debug\Newtonsoft.Json.xml
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\obj\Debug\SERIALIZATION  HANDSON.csproj.CopyComplete

@@ -1,0 +1,1 @@
+[{"customerId":1,"customerName":"abhay","noOfUnits":4,"unitPerCost":10,"total":40},{"customerId":2,"customerName":"Singh","noOfUnits":8,"unitPerCost":10,"total":80}]
