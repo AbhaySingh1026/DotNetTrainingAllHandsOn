@@ -2,43 +2,16 @@
 <ArrayOfCustomerDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CustomerDetails>
     <customerId>1</customerId>
-    <customerName>abhay</customerName>
-    <noOfUnits>4</noOfUnits>
-    <unitPerCost>10</unitPerCost>
-    <total>40</total>
-  </CustomerDetails>
-  <CustomerDetails>
-    <customerId>2</customerId>
-    <customerName>Singh</customerName>
-    <noOfUnits>8</noOfUnits>
-    <unitPerCost>10</unitPerCost>
-    <total>80</total>
-  </CustomerDetails>
-</ArrayOfCustomerDetails><?xml version="1.0"?>
-<ArrayOfCustomerDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <CustomerDetails>
-    <customerId>1</customerId>
-    <customerName>abhay</customerName>
-    <noOfUnits>10</noOfUnits>
-    <unitPerCost>10</unitPerCost>
-    <total>100</total>
-  </CustomerDetails>
-</ArrayOfCustomerDetails><?xml version="1.0"?>
-<ArrayOfCustomerDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <CustomerDetails>
-    <customerId>1</customerId>
-    <customerName>a</customerName>
-    <noOfUnits>4</noOfUnits>
-    <unitPerCost>10</unitPerCost>
-    <total>40</total>
-  </CustomerDetails>
-</ArrayOfCustomerDetails><?xml version="1.0"?>
-<ArrayOfCustomerDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <CustomerDetails>
-    <customerId>1</customerId>
-    <customerName>ABhay</customerName>
+    <customerName>da</customerName>
     <noOfUnits>7</noOfUnits>
     <unitPerCost>10</unitPerCost>
     <total>70</total>
+  </CustomerDetails>
+  <CustomerDetails>
+    <customerId>2</customerId>
+    <customerName>jhgj</customerName>
+    <noOfUnits>87</noOfUnits>
+    <unitPerCost>10</unitPerCost>
+    <total>870</total>
   </CustomerDetails>
 </ArrayOfCustomerDetails>

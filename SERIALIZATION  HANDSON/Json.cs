@@ -12,7 +12,7 @@ namespace SERIALIZATION__HANDSON
     {
         public void Serialization(List<CustomerDetails> listObj)
         {
-            FileStream fileStreamobj = new FileStream(@"E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\JSON.txt", FileMode.Append, FileAccess.Write);
+            FileStream fileStreamobj = new FileStream(@"E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\JSON.txt", FileMode.Create, FileAccess.Write);
             StreamWriter streamWriter = new StreamWriter(fileStreamobj);
             JsonWriter jsonWriter = new JsonTextWriter(streamWriter);
             JsonSerializer serializer = new JsonSerializer();
@@ -23,7 +23,15 @@ namespace SERIALIZATION__HANDSON
         }
         public void DeSerialization(List<CustomerDetails> listObj)
         {
-            
+            FileStream fileStreamobj = new FileStream(@"E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\JSON.txt", FileMode.Open, FileAccess.Read);
+            StreamReader streamReader = new StreamReader(fileStreamobj);
+            string a = streamReader.ReadToEnd();
+            List<CustomerDetails> newList = JsonConvert.DeserializeObject<List<CustomerDetails>>(a);
+            for (int i = 0; i < newList.Count; i++)
+            {
+                Console.WriteLine(newList[i].customerId + "\t" + newList[i].customerName + "\t" + newList[i].noOfUnits + "\t" + newList[i].unitPerCost + "\t" + newList[i].total);
+            }
+            return;
         }
     }
 }

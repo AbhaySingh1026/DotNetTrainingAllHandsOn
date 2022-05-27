@@ -12,14 +12,14 @@ namespace SERIALIZATION__HANDSON
     {
         public void Serialization(List<CustomerDetails> listObj)
         {                                                                //in filemode createFile if u opened file time but adding elements more than 1 time then it will wrk as append bt if u creating again for writing it will replace previous text
-            FileStream fileStreamobj = new FileStream(@"E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\XML.txt", FileMode.Append, FileAccess.Write);
+            FileStream fileStreamobj = new FileStream(@"E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\XML.txt", FileMode.Create, FileAccess.Write);
             XmlSerializer serializerObj = new XmlSerializer(typeof(List<CustomerDetails>));
             serializerObj.Serialize(fileStreamobj, listObj);
             fileStreamobj.Close();
             return;
         }
         public void DeSerialization()
-        {   
+        {
             FileStream fileStreamobjForDe = new FileStream(@"E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\SERIALIZATION  HANDSON\XML.txt", FileMode.Open);
             XmlSerializer serializerObjForDe = new XmlSerializer(typeof(List<CustomerDetails>));
             List<CustomerDetails> newList = (List<CustomerDetails>)serializerObjForDe.Deserialize(fileStreamobjForDe);
