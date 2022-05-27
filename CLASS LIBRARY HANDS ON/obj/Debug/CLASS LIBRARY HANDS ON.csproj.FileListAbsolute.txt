@@ -1,6 +1,0 @@
-E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\CLASS LIBRARY HANDS ON\bin\Debug\CLASS LIBRARY HANDS ON.dll
-E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\CLASS LIBRARY HANDS ON\bin\Debug\CLASS LIBRARY HANDS ON.pdb
-E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\CLASS LIBRARY HANDS ON\obj\Debug\CLASS LIBRARY HANDS ON.csproj.AssemblyReference.cache
-E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\CLASS LIBRARY HANDS ON\obj\Debug\CLASS LIBRARY HANDS ON.csproj.CoreCompileInputs.cache
-E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\CLASS LIBRARY HANDS ON\obj\Debug\CLASS LIBRARY HANDS ON.dll
-E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\CLASS LIBRARY HANDS ON\obj\Debug\CLASS LIBRARY HANDS ON.pdb
