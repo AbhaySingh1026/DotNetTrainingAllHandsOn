@@ -1,0 +1,11 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\bin\Debug\Run Data Dll File.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\bin\Debug\Run Data Dll File.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\bin\Debug\Run Data Dll File.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\bin\Debug\INSERT DATA IN DB BY CONSOLE.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\bin\Debug\INSERT DATA IN DB BY CONSOLE.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\obj\Debug\Run Data Dll File.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\obj\Debug\Run Data Dll File.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\obj\Debug\Run Data Dll File.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\obj\Debug\Run Data Dll File.csproj.CopyComplete
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\obj\Debug\Run Data Dll File.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\Run Data Dll File\obj\Debug\Run Data Dll File.pdb

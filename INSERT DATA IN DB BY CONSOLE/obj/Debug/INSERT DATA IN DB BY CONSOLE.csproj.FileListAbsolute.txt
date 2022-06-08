@@ -1,0 +1,6 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\bin\Debug\INSERT DATA IN DB BY CONSOLE.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\bin\Debug\INSERT DATA IN DB BY CONSOLE.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\obj\Debug\INSERT DATA IN DB BY CONSOLE.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\obj\Debug\INSERT DATA IN DB BY CONSOLE.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\obj\Debug\INSERT DATA IN DB BY CONSOLE.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\INSERT DATA IN DB BY CONSOLE\obj\Debug\INSERT DATA IN DB BY CONSOLE.pdb
