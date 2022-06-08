@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\bin\Debug\LinqQuestionsHandsOn.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\bin\Debug\LinqQuestionsHandsOn.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\bin\Debug\LinqQuestionsHandsOn.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\obj\Debug\LinqQuestionsHandsOn.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\obj\Debug\LinqQuestionsHandsOn.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\obj\Debug\LinqQuestionsHandsOn.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\obj\Debug\LinqQuestionsHandsOn.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\LinqQuestionsHandsOn\obj\Debug\LinqQuestionsHandsOn.pdb
