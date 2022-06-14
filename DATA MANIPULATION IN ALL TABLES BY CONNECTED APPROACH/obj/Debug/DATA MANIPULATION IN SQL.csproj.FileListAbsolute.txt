@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\bin\Debug\ConsoleApp1.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\bin\Debug\ConsoleApp1.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\bin\Debug\ConsoleApp1.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\obj\Debug\DATA MANIPULATION IN SQL.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\obj\Debug\DATA MANIPULATION IN SQL.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\obj\Debug\DATA MANIPULATION IN SQL.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\obj\Debug\ConsoleApp1.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\SelfOrbySirForUnderstandingTopics\DATA MANIPULATION IN SQL\obj\Debug\ConsoleApp1.pdb
