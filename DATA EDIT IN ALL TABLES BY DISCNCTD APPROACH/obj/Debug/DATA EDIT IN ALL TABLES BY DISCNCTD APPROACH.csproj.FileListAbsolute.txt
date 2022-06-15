@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\bin\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\bin\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\bin\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\obj\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\obj\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\obj\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\obj\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH\obj\Debug\DATA EDIT IN ALL TABLES BY DISCNCTD APPROACH.pdb
