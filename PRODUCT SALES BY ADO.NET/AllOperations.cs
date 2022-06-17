@@ -382,7 +382,16 @@ namespace PRODUCT_SALES_BY_ADO.NET
                     }
                     for (int j = 0; j < dt.Columns.Count; j++)
                     {
-                        Console.Write(dt.Rows[i][j] + " ");
+                        if(j == dt.Columns.Count - 1)
+                        {
+                            temp = dt.Rows[i][j].ToString();
+                            string[] ans = temp.Split(' ');
+                            Console.Write(ans[0]);
+                        }
+                        else
+                        {
+                            Console.Write(dt.Rows[i][j] + " ");
+                        }
                     }
                     Console.WriteLine();
                 }
@@ -425,7 +434,7 @@ namespace PRODUCT_SALES_BY_ADO.NET
                             Console.Write(dt.Columns[j].ColumnName + " ");
                         }
                         Console.WriteLine();
-                        for (int j = 0; j < dt.Columns.Count; j++)
+                        for (int j = 0; j < dt.Columns.Count-1; j++)
                         {
                             Console.Write(dt.Rows[i][j] + " ");
                             count = 1;
@@ -473,7 +482,13 @@ namespace PRODUCT_SALES_BY_ADO.NET
                         Console.WriteLine();
                         for (int j = 0; j < dt.Columns.Count; j++)
                         {
-                            Console.Write(dt.Rows[i][j] + " ");
+                            if (j == dt.Columns.Count - 1)
+                            {
+                                temp = dt.Rows[i][j].ToString();
+                                string[] ans = temp.Split(' ');
+                                Console.Write(ans[0]);
+                            }
+                            else { Console.Write(dt.Rows[i][j] + " "); }
                             count = 1;
                         }
                         Console.WriteLine();
