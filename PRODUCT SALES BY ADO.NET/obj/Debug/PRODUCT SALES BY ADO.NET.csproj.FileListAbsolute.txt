@@ -1,0 +1,8 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\bin\Debug\PRODUCT SALES BY ADO.NET.exe.config
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\bin\Debug\PRODUCT SALES BY ADO.NET.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\bin\Debug\PRODUCT SALES BY ADO.NET.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\obj\Debug\PRODUCT SALES BY ADO.NET.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\obj\Debug\PRODUCT SALES BY ADO.NET.csproj.SuggestedBindingRedirects.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\obj\Debug\PRODUCT SALES BY ADO.NET.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\obj\Debug\PRODUCT SALES BY ADO.NET.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\PRODUCT SALES BY ADO.NET\obj\Debug\PRODUCT SALES BY ADO.NET.pdb

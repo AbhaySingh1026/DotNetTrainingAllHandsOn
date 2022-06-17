@@ -1,0 +1,3 @@
+create product details(productid,name,price) and sales(salesid,productid,quantity,totalcost,
+salesdate) details. Implement insert,update,delete,select operations. this is for your 
+understandings only. by EOD you should be very clear on ADO.NET process.
