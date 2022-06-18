@@ -33,7 +33,7 @@ namespace PRODUCT_SALES_BY_ADO.NET
         {
             AllOperations allOperations = new AllOperations();
             TOP:
-            Console.WriteLine($"Which operation do you want to perform on {tableName} management portal ? -\n1. Insert a record\n2. Update a record\n3. Delete a record\n4. Show all records\n5. Show a particular record\n6. Go Back");
+            Console.WriteLine($"Which operation do you want to perform on {tableName} management portal ? -\n1. Insert a record\n2. Update a record\n3. Delete a record\n4. Show all records\n5. Show a particular record\n6. Show all product and sales data\n7. Delete all records at once from {tableName}\n8. Go Back");
             switch (Console.ReadLine()){
                 case "1": allOperations.InsertRecord(tableName);
                     break;
@@ -45,7 +45,11 @@ namespace PRODUCT_SALES_BY_ADO.NET
                     break;
                 case "5": allOperations.ShowOneRecord(tableName);
                     break;
-                case "6": return;
+                case "6":allOperations.JoinAndShowAllData();
+                    break;
+                case "7": allOperations.DeleteAllRecords(tableName);
+                    break;
+                case "8": return;
                 default: Console.WriteLine("Oops.. you entered wrong option, Please try again.");
                     goto TOP;
             }goto TOP;

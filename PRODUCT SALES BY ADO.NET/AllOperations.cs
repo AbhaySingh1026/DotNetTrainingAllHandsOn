@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 
 
 namespace PRODUCT_SALES_BY_ADO.NET
@@ -62,7 +63,10 @@ namespace PRODUCT_SALES_BY_ADO.NET
             #region InsertForSalesTable
             else
             {
-                TOP1:
+                
+            TOP1:
+                SqlConnection sqlConnectionObjnew = new SqlConnection(connection);
+                DataTable dtnew = new DataTable();
                 try
                 {
                     Console.Write("Enter sale Id - ");
@@ -73,10 +77,29 @@ namespace PRODUCT_SALES_BY_ADO.NET
                     quantity = Convert.ToInt32(Console.ReadLine());
                     Console.Write("Enter sales date(year-month-day) - ");
                     name = Console.ReadLine();
-                    SqlDataAdapter sqlDataAdapterObj = new SqlDataAdapter("select price from product where pid = " + id + "", sqlConnectionObj);
-                    sqlDataAdapterObj.Fill(dt);
-                    temp = dt.Rows[0][0].ToString();
+                    SqlDataAdapter sqlDataAdapterObj = new SqlDataAdapter("select price from product where pid = " + id + "", sqlConnectionObjnew);
+                    sqlDataAdapterObj.Fill(dtnew);
+                    temp = dtnew.Rows[0][0].ToString();
                     price = Convert.ToDouble(temp) * quantity;
+
+                    string[] splitDate = name.Split('-');
+                    string reversedDate = null;
+                    for(int i = splitDate.Length-1; i>=0; i--)
+                    {
+                        if(reversedDate == null) reversedDate = splitDate[i];
+                        else reversedDate = reversedDate + "-" + splitDate[i];
+                    }
+
+                    SqlDataAdapter sqlDataObj = new SqlDataAdapter("select * from sales", sqlConnectionObjnew);
+                    sqlDataObj.Fill(dtnew);
+                    for(int i = 1; i < dtnew.Rows.Count; i++)
+                    {
+                        if((Convert.ToInt32(dtnew.Rows[i][2]) == id) && (dtnew.Rows[i][5].ToString().Contains(reversedDate)))
+                        {
+                            Console.WriteLine("You can't enter sales details of a product twice in same day, u can go update sales details of this product acc. to ur needs, or please enter sales details of a new product");
+                            return;
+                        }
+                    }
                 }
                 catch
                 {
@@ -85,8 +108,8 @@ namespace PRODUCT_SALES_BY_ADO.NET
                 }
                 try
                 {
-                    SqlDataAdapter sqlDataAdapterObj1 = new SqlDataAdapter($"insert into {tablename}(sid,pid,quantity,totalcost,salesdate) values(" + sId + "," + id + "," + quantity + ","+price+",'"+name+"')", sqlConnectionObj);
-                    sqlDataAdapterObj1.Fill(dt);
+                    SqlDataAdapter sqlDataAdapterObj1 = new SqlDataAdapter($"insert into {tablename}(sid,pid,quantity,totalcost,salesdate) values(" + sId + "," + id + "," + quantity + ","+price+",'"+name+"')", sqlConnectionObjnew);
+                    sqlDataAdapterObj1.Fill(dtnew);
                 }
                 catch
                 {
@@ -499,6 +522,110 @@ namespace PRODUCT_SALES_BY_ADO.NET
                 {
                     Console.WriteLine("Entered Sales Id doesn't exists, Please try again -");
                     goto TOP1;
+                }
+            }
+            #endregion
+        }
+        public void JoinAndShowAllData()
+        {
+            SqlConnection sqlConnectionObj = new SqlConnection(connection);
+            DataTable dt = new DataTable();
+            #region JoinBothTable
+            try
+            {
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("select sales.salesdate,product.pname,product.price,sales.quantity,sales.totalcost from product inner join sales on product.pid = sales.pid", sqlConnectionObj);
+                sqlDataAdapter.Fill(dt);
+                for (int i = 0; i < dt.Rows.Count; i++)
+                {
+                    if (i == 0)
+                    {
+                        for (int j = 0; j < dt.Columns.Count; j++)
+                        {
+                            Console.Write(dt.Columns[j].ColumnName + " ");
+                        }
+                        Console.WriteLine();
+                    }
+                    for (int j = 0; j < dt.Columns.Count; j++)
+                    {
+                        if (j == 0)
+                        {
+                            string[] split = dt.Rows[i][j].ToString().Split(' ');
+                            Console.Write(split[0] + " ");
+                        }
+                        else { Console.Write(dt.Rows[i][j] + " "); }
+                    }
+                    Console.WriteLine();
+                }
+            }
+            catch
+            {
+                Console.WriteLine("either product or sales table or both doesn't exists in database");
+                return;
+            }if(dt.Rows.Count == 0)
+            {
+                Console.WriteLine("Either product and sales both tables are empty or sales table is empty, please first insert records then try again - ");
+                return;
+            }
+            #endregion
+        }
+        public void DeleteAllRecords(string tablename)
+        {
+            SqlConnection sqlConnectionObj = new SqlConnection(connection);
+            DataTable dt = new DataTable();
+            #region DeleteAllRecordsOfProduct
+            if (tablename == "Product")
+            {
+                try
+                {
+                    SqlDataAdapter obj1 = new SqlDataAdapter("select * from sales",sqlConnectionObj);
+                    obj1.Fill(dt);
+                }
+                catch
+                {
+                    goto Down;
+                }
+                SqlDataAdapter sqlDataAdapterObj = new SqlDataAdapter("delete from Sales", sqlConnectionObj);
+                sqlDataAdapterObj.Fill(dt);
+                SqlDataAdapter sqlDataAdapterObj1 = new SqlDataAdapter($"delete from {tablename}", sqlConnectionObj);
+                sqlDataAdapterObj1.Fill(dt);
+                Console.WriteLine("All records deleted");
+                return ;
+                Down:
+                try
+                {
+                    SqlDataAdapter obj1 = new SqlDataAdapter("select * from product", sqlConnectionObj);
+                    obj1.Fill(dt);
+                    if (dt.Rows.Count == 0)
+                    {
+                        Console.WriteLine("No records present");
+                    }
+                    else
+                    {
+                        SqlDataAdapter sqlDataObj = new SqlDataAdapter($"delete from {tablename}", sqlConnectionObj);
+                        sqlDataObj.Fill(dt);
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Both Table doesn't exists");
+                    return;
+                }
+            }
+            #endregion
+            #region DeleteAllRecordsOfSales
+            else
+            {
+                try
+                {
+                    SqlDataAdapter sqlDataAdapterObj = new SqlDataAdapter($"delete from {tablename}", sqlConnectionObj);
+                    sqlDataAdapterObj.Fill(dt);
+                    Console.WriteLine("All records deleted");
+                    return;
+                }
+                catch
+                {
+                    Console.WriteLine("Sales table doesn't exists");
+                    return;
                 }
             }
             #endregion

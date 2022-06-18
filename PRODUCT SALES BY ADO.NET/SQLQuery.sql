@@ -5,4 +5,7 @@ SELECT * FROM PRODUCT
 SELECT * FROM SALES
 
 DROP TABLE PRODUCT
-DROP TABLE SALES
+DROP TABLE SALES 
+
+delete from sales
+delete from product
