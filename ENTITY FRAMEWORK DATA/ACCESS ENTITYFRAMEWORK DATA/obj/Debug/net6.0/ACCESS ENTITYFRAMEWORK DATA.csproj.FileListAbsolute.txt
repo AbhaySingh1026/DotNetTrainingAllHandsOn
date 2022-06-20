@@ -1,0 +1,116 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.deps.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.runtimeconfig.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.GeneratedMSBuildEditorConfig.editorconfig
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.AssemblyInfoInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.AssemblyInfo.cs
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.csproj.CopyComplete
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\refint\ACCESS ENTITYFRAMEWORK DATA.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.genruntimeconfig.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ref\ACCESS ENTITYFRAMEWORK DATA.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\refint\ACCESS ENTITYFRAMEWORK DATA.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.exe
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.deps.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.runtimeconfig.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.GeneratedMSBuildEditorConfig.editorconfig
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.AssemblyInfoInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.AssemblyInfo.cs
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.csproj.CopyComplete
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ACCESS ENTITYFRAMEWORK DATA.genruntimeconfig.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\ACCESS ENTITYFRAMEWORK DATA\obj\Debug\net6.0\ref\ACCESS ENTITYFRAMEWORK DATA.dll

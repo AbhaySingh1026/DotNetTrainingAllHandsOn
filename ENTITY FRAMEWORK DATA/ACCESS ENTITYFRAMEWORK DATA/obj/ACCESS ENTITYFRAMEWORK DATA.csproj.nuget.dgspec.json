@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA.csproj": {}
+  },
+  "projects": {
+    "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA.csproj",
+        "projectName": "ACCESS ENTITYFRAMEWORK DATA",
+        "projectPath": "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA.csproj",
+        "packagesPath": "C:\\Users\\Abhay Singh\\.nuget\\packages\\",
+        "outputPath": "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhay Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\EntityFramework.Data.csproj": {
+                "projectPath": "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\EntityFramework.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

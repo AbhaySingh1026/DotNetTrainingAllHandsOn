@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpOutz+9xF2YV2ctKe6MF6ZUwV12Rbw84B4dvOInlTWBDG7Q7rwkxZoLlSP4HYsuDOO/6TUy0g22i9cMq3xpeA==",
+  "success": false,
+  "projectFilePath": "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA\\ACCESS ENTITYFRAMEWORK DATA.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\EntityFramework.Data.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "E:\\KelltonTech\\.NET training kellton\\Real Training Started\\DotNetTrainingAllHandsOn\\ENTITY FRAMEWORK DATA\\EntityFramework.Data.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfoInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfo.cs
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.deps.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.runtimeconfig.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\refint\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.genruntimeconfig.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EntityFramework.Data\obj\Debug\net6.0\ref\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.deps.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.runtimeconfig.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\bin\Debug\net6.0\EntityFramework.Data.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfoInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfo.cs
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\refint\EntityFramework.Data.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\EntityFramework.Data.genruntimeconfig.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\ENTITY FRAMEWORK DATA\obj\Debug\net6.0\ref\EntityFramework.Data.dll
