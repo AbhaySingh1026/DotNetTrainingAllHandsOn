@@ -1,0 +1,14 @@
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\bin\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.deps.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\bin\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.runtimeconfig.json
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\bin\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\bin\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.csproj.AssemblyReference.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.AssemblyInfoInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.AssemblyInfo.cs
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.csproj.CoreCompileInputs.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\refint\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.dll
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.pdb
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.genruntimeconfig.cache
+E:\KelltonTech\.NET training kellton\Real Training Started\DotNetTrainingAllHandsOn\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY\obj\Debug\net6.0\ref\EMPLOYEE ALL ORGANIZATIONS WITH ENTITY.dll
