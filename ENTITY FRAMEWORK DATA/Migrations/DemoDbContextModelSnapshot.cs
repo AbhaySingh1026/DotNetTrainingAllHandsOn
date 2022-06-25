@@ -37,7 +37,7 @@ namespace EntityFramework.Data.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Employeees");
                 });
 
             modelBuilder.Entity("EntityFramework.Data.Entities.EmployeeEducation", b =>

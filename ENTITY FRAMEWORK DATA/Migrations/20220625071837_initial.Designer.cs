@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EntityFramework.Data.Migrations
 {
     [DbContext(typeof(DemoDbContext))]
-    [Migration("20220620120214_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20220625071837_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -39,7 +39,7 @@ namespace EntityFramework.Data.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Employeees");
                 });
 
             modelBuilder.Entity("EntityFramework.Data.Entities.EmployeeEducation", b =>

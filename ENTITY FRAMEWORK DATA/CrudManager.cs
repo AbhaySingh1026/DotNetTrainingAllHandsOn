@@ -14,7 +14,7 @@ namespace EntityFramework.Data
         public Employee GetEmplpoyeeById(int employeeId)
         {
             // Tracking not required
-            var employee = demoDbContext.Employees.Where(x => x.ID == employeeId)
+            var employee = demoDbContext.Employeees.Where(x => x.ID == employeeId)
                             .AsNoTracking()
                             .FirstOrDefaultAsync().Result;
 
@@ -28,19 +28,19 @@ namespace EntityFramework.Data
 
         public List<Employee> GetAllEmployees()
         {
-            var employee = demoDbContext.Employees.ToList();
+            var employee = demoDbContext.Employeees.ToList();
             return employee;
         }
 
         public void Insert(Employee employee)
         {
-            demoDbContext.Employees.Add(employee);
+            demoDbContext.Employeees.Add(employee);
             demoDbContext.SaveChanges();
         }
 
         public void Update(int employeeId, Employee modifiedEmployee)
         {
-            var employee = demoDbContext.Employees.Where(x => x.ID == employeeId).FirstOrDefault();
+            var employee = demoDbContext.Employeees.Where(x => x.ID == employeeId).FirstOrDefault();
             if (employee == null)
             {
                 throw new Exception($"Employee with ID:{employeeId} Not Found");
@@ -50,7 +50,7 @@ namespace EntityFramework.Data
             employee.Address = modifiedEmployee.Address;
 
             // Entity state : Modified
-            demoDbContext.Employees.Update(employee);
+            demoDbContext.Employeees.Update(employee);
 
             // This issues insert statement
             demoDbContext.SaveChanges();
@@ -58,14 +58,14 @@ namespace EntityFramework.Data
 
         public void Delete(int employeeId)
         {
-            var employee = demoDbContext.Employees.Where(x => x.ID == employeeId).FirstOrDefault();
+            var employee = demoDbContext.Employeees.Where(x => x.ID == employeeId).FirstOrDefault();
             if (employee == null)
             {
                 throw new Exception($"Employee with ID:{employeeId} Not Found");
             }
 
             // Entity state : Deleted
-            demoDbContext.Employees.Remove(employee);
+            demoDbContext.Employeees.Remove(employee);
 
             // This issues insert statement
             demoDbContext.SaveChanges();

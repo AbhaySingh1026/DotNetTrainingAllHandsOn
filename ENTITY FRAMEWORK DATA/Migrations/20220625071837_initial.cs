@@ -4,7 +4,7 @@
 
 namespace EntityFramework.Data.Migrations
 {
-    public partial class InitialMigration : Migration
+    public partial class initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -26,7 +26,7 @@ namespace EntityFramework.Data.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Employees",
+                name: "Employeees",
                 columns: table => new
                 {
                     ID = table.Column<int>(type: "int", nullable: false)
@@ -36,7 +36,7 @@ namespace EntityFramework.Data.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Employees", x => x.ID);
+                    table.PrimaryKey("PK_Employeees", x => x.ID);
                 });
         }
 
@@ -46,7 +46,7 @@ namespace EntityFramework.Data.Migrations
                 name: "EmployeeEducations");
 
             migrationBuilder.DropTable(
-                name: "Employees");
+                name: "Employeees");
         }
     }
 }
